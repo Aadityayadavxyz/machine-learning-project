@@ -2,6 +2,7 @@ pandas
 numpy 
 seaborn
 scikit-learn
+dill
 #python-dotenv
 #pymysql
 #-e .
